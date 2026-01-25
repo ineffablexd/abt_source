@@ -1,0 +1,26 @@
+{
+  "name": "Ineffable",
+  "title": "Electrical Engineer",
+  "bio": "An electrical engineer with a passion for designing and building stuffs.",
+  "avatar": "https://raw.githubusercontent.com/YOUR_USERNAME/dev-info/main/dev.jpg",
+  "socials": [
+    {
+      "platform": "Instagram",
+      "username": "@vsharma.___",
+      "url": "https://instagram.com/vsharma.___",
+    
+    },
+    {
+      "platform": "Telegram",
+      "username": "@ineffabletg",
+      "url": "https://t.me/ineffabletg",
+   
+    },
+    {
+      "platform": "X",
+      "username": "@ineffable0xd",
+      "url": "https://x.com/ineffable0xd",
+    
+    }
+  ]
+}
